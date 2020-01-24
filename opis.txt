@@ -1,0 +1,5 @@
+Drukarki atramentowe wady.
+
+1. Zasychający tusz.
+2. Konieczność skalowania głowicy.
+3. Trzeba odczekać aż wyschnie wydruk.
